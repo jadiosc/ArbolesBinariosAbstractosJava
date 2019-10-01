@@ -32,7 +32,6 @@ public abstract class abstractArbolBinario {
         _raiz = null;
     }
     
-    public abstract boolean vacio();
     public abstract String preorden();
     public abstract String inorden();
     public abstract String postorden();    
